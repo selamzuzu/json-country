@@ -1,0 +1,152 @@
+	
+city	
+0	
+city	"A Corua (La Corua)"
+last_update	"2006-02-15T04:45:25"
+country_id	87
+city_id	1
+1	
+city	"Abha"
+last_update	"2006-02-15T04:45:25"
+country_id	82
+city_id	2
+2	
+city	"Abu Dhabi"
+last_update	"2006-02-15T04:45:25"
+country_id	101
+city_id	3
+3	
+city	"Acua"
+last_update	"2006-02-15T04:45:25"
+country_id	60
+city_id	4
+4	
+city	"Adana"
+last_update	"2006-02-15T04:45:25"
+country_id	97
+city_id	5
+5	
+city	"Addis Abeba"
+last_update	"2006-02-15T04:45:25"
+country_id	31
+city_id	6
+6	
+city	"Aden"
+last_update	"2006-02-15T04:45:25"
+country_id	107
+city_id	7
+7	
+city	"Adoni"
+last_update	"2006-02-15T04:45:25"
+country_id	44
+city_id	8
+8	
+city	"Ahmadnagar"
+last_update	"2006-02-15T04:45:25"
+country_id	44
+city_id	9
+9	
+city	"Akishima"
+last_update	"2006-02-15T04:45:25"
+country_id	50
+city_id	10
+10	
+city	"Akron"
+last_update	"2006-02-15T04:45:25"
+country_id	103
+city_id	11
+11	
+city	"al-Ayn"
+last_update	"2006-02-15T04:45:25"
+country_id	101
+city_id	12
+12	
+city	"al-Hawiya"
+last_update	"2006-02-15T04:45:25"
+country_id	82
+city_id	13
+13	
+city	"al-Manama"
+last_update	"2006-02-15T04:45:25"
+country_id	11
+city_id	14
+14	
+city	"al-Qadarif"
+last_update	"2006-02-15T04:45:25"
+country_id	89
+city_id	15
+15	
+city	"al-Qatif"
+last_update	"2006-02-15T04:45:25"
+country_id	82
+city_id	16
+16	
+city	"Alessandria"
+last_update	"2006-02-15T04:45:25"
+country_id	49
+city_id	17
+17	
+city	"Allappuzha (Alleppey)"
+last_update	"2006-02-15T04:45:25"
+country_id	44
+city_id	18
+18	
+city	"Allende"
+last_update	"2006-02-15T04:45:25"
+country_id	60
+city_id	19
+19	
+city	"Almirante Brown"
+last_update	"2006-02-15T04:45:25"
+country_id	6
+city_id	20
+20	
+city	"Alvorada"
+last_update	"2006-02-15T04:45:25"
+country_id	15
+city_id	21
+21	
+city	"Ambattur"
+last_update	"2006-02-15T04:45:25"
+country_id	44
+city_id	22
+22	
+city	"Amersfoort"
+last_update	"2006-02-15T04:45:25"
+country_id	67
+city_id	23
+23	
+city	"Amroha"
+last_update	"2006-02-15T04:45:25"
+country_id	44
+city_id	24
+24	
+city	"Angra dos Reis"
+last_update	"2006-02-15T04:45:25"
+country_id	15
+city_id	25
+25	
+city	"Anpolis"
+last_update	"2006-02-15T04:45:25"
+country_id	15
+city_id	26
+26	
+city	"Antofagasta"
+last_update	"2006-02-15T04:45:25"
+country_id	22
+city_id	27
+27	
+city	"Aparecida de Goinia"
+last_update	"2006-02-15T04:45:25"
+country_id	15
+city_id	28
+28	
+city	"Apeldoorn"
+last_update	"2006-02-15T04:45:25"
+country_id	67
+city_id	29
+29	
+city	"Araatuba"
+last_update	"2006-02-15T04:45:25"
+country_id	15
+city_id	30
